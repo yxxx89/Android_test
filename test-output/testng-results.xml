@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104324" started-at="2019-11-27T11:24:42Z" finished-at="2019-11-27T11:26:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104324" started-at="2019-11-27T11:24:42Z" finished-at="2019-11-27T11:26:26Z">
+      <class name="guangfa.test.firstAppium.AppiumTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:guangfa.test.firstAppium.AppiumTest@146ba0ac]" name="setUp" is-config="true" duration-ms="16629" started-at="2019-11-27T11:24:42Z" finished-at="2019-11-27T11:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testyijinbao()[pri:0, instance:guangfa.test.firstAppium.AppiumTest@146ba0ac]" name="testyijinbao" duration-ms="86978" started-at="2019-11-27T11:24:58Z" finished-at="2019-11-27T11:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testyijinbao -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:guangfa.test.firstAppium.AppiumTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="707" started-at="2019-11-27T11:26:25Z" finished-at="2019-11-27T11:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- guangfa.test.firstAppium.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
